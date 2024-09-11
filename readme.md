@@ -57,7 +57,7 @@ Hi I am Marietta Nicole P. Cayaon, here is my Feature Display. There are 1 landi
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-This is to a Features Display Website using pure HTML and CSS to showcase distinct design layouts for different features. Including a unique landing page and at least two feature pages with engaging designs.
+This is to create a Features Display Website using pure HTML and CSS to showcase distinct design layouts for different features. Including a unique landing page and at least two feature pages with engaging designs.
 
 Guiding Question:
 What is the Project - This project involves creating a website that features two distinct pages: one inspired by Onitsuka Tiger and the other by Samsung. It employs HTML and CSS to craft visually appealing designs.
