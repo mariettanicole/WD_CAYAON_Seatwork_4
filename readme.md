@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/mariettanicole/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/flower-removebg-preview (1).png" alt="Flower" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 4</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+Hi I am Marietta Nicole P. Cayaon, here is my Feature Display. There are 1 landing page and 2 feature pages.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=mariettanicole/WD-Template-Project)
 
 ---
 
@@ -57,26 +57,28 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This is to create a Features Display Website using pure HTML and CSS to showcase distinct design layouts for different features. Including a unique landing page and at least two feature pages with engaging designs.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+What is the Project - This project involves creating a website that features two distinct pages: one inspired by Onitsuka Tiger and the other by Samsung. It employs HTML and CSS to craft visually appealing designs.
+
+Purpose - The goal is to show how different design styles can be achieved with HTML and CSS, inspired by Onitsuka Tiger and Samsung.
+
+Technology Used
+- HTML: Structures the content.
+- CSS: Styles the pages, creating the Onitsuka Tiger and Samsung looks.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Features Display
+- Layout Designs
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -96,8 +98,6 @@ WD-ProjectName
 |   |   └─ style.css
 |   └─ img
 |   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
 └─ pages
 |  └─ pageName
 |     └─ assets
@@ -105,8 +105,6 @@ WD-ProjectName
 |     |  |  └─ style.css
 |     |  └─ img
 |     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
 |     └─ index.html
 └─ index.html
 └─ readme.md
@@ -116,5 +114,3 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |

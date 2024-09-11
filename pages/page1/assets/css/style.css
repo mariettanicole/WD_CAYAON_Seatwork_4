@@ -1,0 +1,180 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333333;
+}
+
+header {
+    background-image: url('https://www.gamerefinery.com/wp-content/uploads/2020/10/roblox-deconstruction-header-scaled.jpg');
+    background-size: cover;
+    color: #FFFFFF;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 150px 0;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.shoes-section {
+    padding: 20px;
+}
+
+.shoes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.shoe {
+    background: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 100%;
+    max-width: 800px;
+    margin: 20px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.shoe img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-right: 1px solid #cccccc;
+}
+
+.shoe-info {
+    padding: 15px;
+    flex: 1;
+}
+
+.shoe-info h2 {
+    color: #ff0000b7;
+    margin-top: 0;
+}
+
+.feature {
+    margin-bottom: 10px;
+}
+
+.feature h3 {
+    color: #333333;
+    margin-bottom: 5px;
+}
+
+.feature p {
+    color: #666666;
+}
+
+.additional-resources {
+    padding: 20px;
+    background-color: #ffffff;
+    border-top: 1px solid #cccccc;
+    text-align: center;
+}
+
+.additional-resources h2 {
+    color: #333333;
+}
+
+.resources {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.resource {
+    background: #f9f9f9;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.resource h3 {
+    color: #333333;
+}
+
+.resource img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.resource a {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.resource a:hover {
+    background-color: #555555;
+}
+
+.home-button {
+    background-color: #B762C1;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    display: inline-block;
+    margin: 20px 0;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.home-button:hover {
+    background-color: #8e3b8f;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
+}
+
+.footer-logo img {
+    margin-bottom: 10px;
+    width: 150px;
+}
+
+.footer-links {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    margin-right: 15px;
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.footer-copy p {
+    margin: 0;
+    color: #666;
+    font-size: 14px;
+}
